@@ -17,6 +17,5 @@ Below is the organization of the files in this repository:
 │   └── styles.css      # Main CSS file
 ├── assets/             # Folder for images, icons, and fonts
 │   └── images/
-│   └── main.js/
-# Project images
+│   └── main.js/ # Project images
 └── README.md           # Project documentation
